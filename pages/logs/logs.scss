@@ -1,0 +1,12 @@
+$padding:40rpx;
+
+.log-list{
+  display: flex;
+  flex:{
+    direction:column;
+  }
+  padding:$padding;
+  .log-items{
+    margin:$padding*0.25;
+  }
+}

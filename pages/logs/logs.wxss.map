@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,SAAS;EACP,OAAO,EAAE,IAAI;EAEX,cAAS,EAAC,MAAM;EAElB,OAAO,EAPA,KAAK;EAQZ,oBAAU;IACR,MAAM,EAAC,KAAa",
+"sources": ["logs.scss"],
+"names": [],
+"file": "logs.wxss"
+}
